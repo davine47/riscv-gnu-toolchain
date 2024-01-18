@@ -2,10 +2,6 @@
 	path = binutils
 	url = https://github.com/davine47/binutils-gdb.git
 	branch = add_zimop
-[submodule "gcc"]
-	path = gcc
-	url = https://gcc.gnu.org/git/gcc.git
-	branch = releases/gcc-13
 [submodule "glibc"]
 	path = glibc
 	url = https://sourceware.org/git/glibc.git
@@ -40,3 +36,6 @@
 	path = llvm
 	url = https://github.com/llvm/llvm-project.git
 	branch = release/17.x
+[submodule "gcc"]
+	path = gcc
+	url = https://github.com/davine47/gcc.git
