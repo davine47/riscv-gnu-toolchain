@@ -1,7 +1,7 @@
 [submodule "binutils"]
 	path = binutils
-	url = https://sourceware.org/git/binutils-gdb.git
-	branch = binutils-2_41-release-point
+	url = https://github.com/davine47/binutils-gdb.git
+	branch = add_zimop
 [submodule "gcc"]
 	path = gcc
 	url = https://gcc.gnu.org/git/gcc.git
